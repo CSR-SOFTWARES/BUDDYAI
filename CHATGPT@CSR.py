@@ -6,9 +6,6 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 
 
 # Set up OpenAI credentials
-openai.api_key = "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"
-# Set up Telegram credentials
-bot_token = "5647151703:AAEvXgABka8zwlmA9usgdni4M3ppp90Lku4"
 
 
 # Define a function to handle the /start command
